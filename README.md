@@ -8,3 +8,4 @@ The challenge is to create a Deep Learning model which can predict the category 
 
 # Stepwise Instructions
 1. Generating word embeddings.
+2. Generating sentence level embeddings.
