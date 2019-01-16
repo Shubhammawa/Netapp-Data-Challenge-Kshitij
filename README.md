@@ -7,6 +7,7 @@ The challenge is to create a Deep Learning model which can predict the category 
 
 # Useful Resources
 1. https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
+2. http://www.joshuakim.io/understanding-how-convolutional-neural-network-cnn-perform-text-classification-with-word-embeddings/
 
 # Stepwise Instructions
 1. Generating word embeddings.
